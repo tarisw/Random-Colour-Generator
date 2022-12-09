@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+#btn{
+    width:150px;
+    height:100px;
+    margin: 25px 25px;
+    padding:30px;
+    border-style: ridge; 
+    border-radius: 10px;
+    border-width: 3px;
+    background-color: rgba(black);
+    
+}
+#btn:hover{
+    background-color: rgba(black, 0.5);
+}
+
+.nav-center{
+    width: 100%;
+    text-align: center;
+    background-color: azure;
+
+}
+
+.nav-links{
+    color: black;
+    text-align: center;
+    border-style: ridge; 
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: ridge; 
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+.container{
+    color: black;
+    text-align: center;
+    border-style: ridge; 
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: ridge; 
+    border-radius: 10px;
+    border-width: 3px;
+}
+
+/*.colour{
+
+}*/

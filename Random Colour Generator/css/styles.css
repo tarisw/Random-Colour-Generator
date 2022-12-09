@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#btn{
+    width:150px;
+    height:100px;
+    margin: 25px 50px;
+    padding:50px 50px;
+    border-style: ridge; 
+    border-radius: 10px;
+    border-width: 3px;
+    background-color: rgba(black, 0.5);
+}
+h2{
+    color: white;
+    text-align: center;
+}
